@@ -1,4 +1,4 @@
-# neurofeedback_analysis_pipeline
+# Neurofeedback EEG Data Analysis Pipeline
 
 ## Overview
 
