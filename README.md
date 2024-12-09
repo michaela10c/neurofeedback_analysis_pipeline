@@ -8,7 +8,7 @@ This repository contains the pipeline for analyzing neurofeedback EEG data from 
 
 ### Raw Data
 
-The raw EEG data used in this pipeline can be found in the `Faller_et_al_2019_PNAS_EEG_Neurofeedback_VR_Flight/` directory. You can download the directory [here](https://ieee-dataport.s3.amazonaws.com/open/8627/Faller_et_al_2019_PNAS_EEG_Neurofeedback_VR_Flight.zip?response-content-disposition=attachment%3B%20filename%3D%22Faller_et_al_2019_PNAS_EEG_Neurofeedback_VR_Flight.zip%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJOHYI4KJCE6Q7MIQ%2F20241112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241112T204407Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=86400&X-Amz-Signature=02fb53fd3e231d8633b2d7c4af2b670df03898e06445d7a86318e70d627b0dd9) (password: `someone`). 
+The raw EEG data used in this pipeline can be found in the `Faller_et_al_2019_PNAS_EEG_Neurofeedback_VR_Flight/` directory. You can download the directory [here](https://ieee-dataport.s3.amazonaws.com/open/8627/Faller_et_al_2019_PNAS_EEG_Neurofeedback_VR_Flight.zip?response-content-disposition=attachment%3B%20filename%3D%22Faller_et_al_2019_PNAS_EEG_Neurofeedback_VR_Flight.zip%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJOHYI4KJCE6Q7MIQ%2F20241112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241112T204407Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=86400&X-Amz-Signature=02fb53fd3e231d8633b2d7c4af2b670df03898e06445d7a86318e70d627b0dd9). 
 
 ### Preprocessed Data
 
