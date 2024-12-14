@@ -17,8 +17,7 @@ git clone https://github.com/your-username/neurofeedback_analysis_pipeline.git
 cd neurofeedback_analysis_pipeline
 ```
 2. **Download the raw data**: The raw EEG data can be accessed from the provided source (e.g., an academic dataset repository). Once downloaded, place it in the `Faller_et_al_2019_PNAS_EEG_Neurofeedback_VR_Flight/` directory.
-3. **Download the preprocessed data**: Preprocessed data files are available for faster analysis. Download them from the provided source. After downloading, place the `preprocessed_data/` folder in the root directory of the repository.
-4. **Run the pipeline**: Once the data is in place, execute the notebook in the root directory. 
+3. **Run the pipeline**: Once the data is in place, execute the notebook in the root directory. 
 
 ## Contact
 
